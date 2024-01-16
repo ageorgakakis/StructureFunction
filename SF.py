@@ -49,7 +49,7 @@ model{
 """
 
 # read input table with two-epoch X-ray count products
-new  = Table.read('test4git.fits')
+new  = Table.read('SF_DRQ16.fits')
 
 
 # define the range of black-hole masses in the catalogue to be used     
