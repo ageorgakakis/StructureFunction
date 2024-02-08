@@ -1,0 +1,65 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Georgakakis
+  given-names: A.
+- family-names: Buchner
+  given-names: J.
+- family-names: Ruiz
+  given-names: A.
+- family-names: Boller
+  given-names: T.
+- family-names: Akylas
+  given-names: A.
+- family-names: Paolillo
+  given-names: M.
+- family-names: Salvato
+  given-names: M.
+- family-names: Merloni
+  given-names: A.
+- family-names: Nandra
+  given-names: K.
+- family-names: Dwelly
+  given-names: T.
+title: "Bayesian Estimation of the AGN Structure Function in the case of Poisson Data"
+version: 1.0
+date-released: 31/01/2024
+identifiers:
+ - type: article
+   value: "arXiv:2401.17285"
+ - type: "doi"
+   value: "10.48550/arXiv.2401.17285"
+ - type: "bibcode"
+   value: "2024ascl.soft01019G"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: Georgakakis
+    given-names: A.
+  - family-names: Buchner
+    given-names: J.
+  - family-names: Ruiz
+    given-names: A.
+  - family-names: Boller
+    given-names: T.
+  - family-names: Akylas
+    given-names: A.
+  - family-names: Paolillo
+    given-names: M.
+  - family-names: Salvato
+    given-names: M.
+  - family-names: Merloni
+    given-names: A.
+  - family-names: Nandra
+    given-names: K.
+  - family-names: Dwelly
+    given-names: T.
+  doi: "10.48550/arXiv.2401.17285"
+  journal: "MNRAS submitted, arXiv:2401.17285"
+  #month: 9
+  #start: 1 # First page number
+  #end: 10 # Last page number
+  title: "Ensemble X-ray variability of optically selected QSOs: dependence on black hole mass and Eddington ratio"
+  #issue: 1
+  #volume: 1
+  year: 2024
